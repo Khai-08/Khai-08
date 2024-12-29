@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
 <h3 align="center">Philippines-based software developer with a passion for building innovative and user-friendly applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khai-08&label=Profile%20views&color=0e75b6&style=flat" alt="khai-08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khai-08v1&label=Profile%20views&color=0e75b6&style=flat" alt="khai-08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khai-08" alt="khai-08" /></a> </p>
 
