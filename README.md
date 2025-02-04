@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khai-08" alt="khai-08" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, & NextJS**
-
-- 💬 Ask me about **PHP**
-
+- 🌱 I’m currently learning **Tailwind CSS, & CodeIgniter**
 - 📫 How to reach me **khalil.aparecio0308@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
