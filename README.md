@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
-<h3 align="center">Philippines-based web developer with a passion for building innovative and user-friendly applications.</h3>
+<h3 align="center">Web developer with practical experience in both front-end and back-end development, passionate about developing web applications with intuitive interfaces and seamless user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khai-08v1&label=Profile%20views&color=0e75b6&style=flat" alt="khai-08" /> </p>
 
