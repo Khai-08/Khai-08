@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khalil.aparecio0308@gmail.com**
 - 🤖 I enjoy developing **Discord Python bots**
-- 🌱 I'm currently learning **ReactJS (Vite)**
+- 🌱 I'm currently learning **Android SDK**
 
 <h3 align="left">Skills:</h3>
 <h4 align="left">Languages:</h4>
