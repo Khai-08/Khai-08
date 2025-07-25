@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
-<h3 align="center">Web developer with practical experience in both front-end and back-end development, passionate about developing web applications with intuitive interfaces and seamless user experiences.</h3>
+<h3 align="center">Software developer with experience in creating Android, Discord, and Web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khai-08v1&label=Profile%20views&color=0e75b6&style=flat" alt="khai-08" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khai-08" alt="khai-08" /></a> </p>
 
 - 📫 How to reach me **khalil.aparecio0308@gmail.com**
-- 🤖 I enjoy developing **Discord Python bots**
+- 🤖 I enjoy developing **Discord Bots (Python)**
 - 🌱 I'm currently learning **Android SDK**
 
 <h3 align="left">Skills:</h3>
